@@ -25,7 +25,7 @@ escribir `s` o `salir` en cualquier pregunta.
 
 1. Clonar el repositorio:
    ```
-   git clone https://github.com/SU_USUARIO/Evaluacion2.git
+   git clone https://github.com/erika67090/Evaluacion2.git
    ```
 2. Entrar a la carpeta:
    ```
