@@ -3,8 +3,7 @@ import urllib.parse
 
 URL_GEOCODIFICACION = "https://graphhopper.com/api/1/geocode?"
 URL_RUTA = "https://graphhopper.com/api/1/route?"
-CLAVE = "c8e09444-e910-4079-b319-a9f7cc296005"
-
+CLAVE = "PEGUE_AQUI_SU_API_KEY"
 PALABRAS_SALIR = ("s", "salir")
 
 # Perfiles de vehículo: lo que escribe el usuario -> valor que entiende GraphHopper
